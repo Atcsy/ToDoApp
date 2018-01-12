@@ -10,8 +10,10 @@ this is an esclusive ToDo Application in one file. Very easy to use and light!
 
 
 
-* HTML5
+
+* Jquery
+* JavaScript
 * CSS3
-* JavasScript
+* HTML
 
 
