@@ -4,7 +4,7 @@
 
 
 
-this is an esclusive ToDo Application in one file. Very easy to use and light!
+This is an esclusive ToDo Application in one file. Very easy to use and light!
 
 # Technologies used:
 
