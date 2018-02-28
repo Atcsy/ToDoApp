@@ -14,6 +14,6 @@ This is an esclusive ToDo Application in one file. Very easy to use and light!
 * Jquery
 * JavaScript
 * CSS3
-* HTML5
+* HTML
 
 
